@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sfarkya.github.io/al-folio/sitemap.xml
+Sitemap: https://sfarkya.github.io/sitemap.xml
